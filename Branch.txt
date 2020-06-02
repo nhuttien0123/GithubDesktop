@@ -1,18 +1,6 @@
 111111111111111111
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-2222222222222222
->>>>>>> parent of 58e4b80... Update Branch.txt
-=======
 
 2222222222222222
-xem phim
 
-
-xem phim
-
-
->>>>>>> parent of 8313564... Update Branch.txt
